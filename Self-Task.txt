@@ -1,0 +1,8 @@
+- Traversing in SLL
+  - Count Nodes
+  - Som of Nodes
+  - Reverse Traversing
+- Simple Problems
+  - Max or Min nummber in SLL
+  - Display odd or even numbers in SLL
+  - Searching
